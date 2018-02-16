@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Счетчик</string>
+    <string name="add_2_points">+2 Очка</string>
+    <string name="add_3_points">+3 Очка</string>
+    <string name="free_throw">Свободный бросок</string>
+    <string name="reset">Сброс</string>
+    <string name="team_a">Комманда А</string>
+    <string name="team_b">Комманда Б</string>
+    <string name="undo">Отмена хода</string>
+</resources>
